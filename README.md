@@ -1,6 +1,6 @@
 # overalls-color-recognition-ML
 
-Botti, joka tunnistaa Joensuu torikamerasta opiskelijahaalareita ja ilmoittaa niistä viestillä.
+Botti, joka tunnistaa Joensuun torikamerasta opiskelijahaalareita ja ilmoittaa niistä viestillä.
 Authors: Eetu Karttunen & Juuso Paakkunainen
 
 TODO: 
