@@ -14,6 +14,7 @@ Käytetyt kirjastot:
 - pafy
 - cv2
 - numpy
+- youtube-dl
 
 Pafy-kirjastosta täytyy muokata backend_youtube_dl.py tiedosta rivit 53 ja 54 muotoon:
 
