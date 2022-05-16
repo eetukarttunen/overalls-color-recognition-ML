@@ -7,6 +7,8 @@ TODO:
 - Useamman värin tunnistaminen?
 - Viestin lähettäminen (twitter, telegram tms.)
 - Jokin kynnysarvo, ettei ilmoiteta täysin turhista havainnoista
+- Saman havainnon poissulkeminen samassa sijainnissa tietyllä aikavälillä
+- Demo-version julkaisu testiympäristöön
 
 Käytetyt kirjastot:
 - pafy
