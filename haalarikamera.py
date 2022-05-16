@@ -39,6 +39,13 @@ while (True):
     # paina Q lopettaaksesi videon
     if cv2.waitKey(1) & 0xFF == ord('Q'):
         break
+    # tallennetaan maskin pikselit muuttujaan
+    pixels = cv2.countNonZero(mask)
+    # jos pikseleitä löytyy, löydettiin haluttua väriä
+    if pixels > 0:
+        print("Oranssia löytyi!")
+    else:
+        print("Ei löytynyt oranssia :(")
 
 
 # suljetaan capture ja video_output
